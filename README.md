@@ -1,4 +1,4 @@
-# CS-491-class-activity-3
+# CS-491-class-activity-4
 Tic-Tac-Toe Refactor Exercise
 
 ### Problem 1
